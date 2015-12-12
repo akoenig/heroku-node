@@ -62,6 +62,8 @@ and your application will be deployed to Heroku and available afterwards via `<Y
   * `Procfile`: This file tells Heroku the type of the application (`web`) and which command Heroku has to execute in order to boot the application (`npm start`).
   * `index.js`: The whole application :) A larger project would, of course, be represented by multiple files. But to keep things simple, keep things simple :)
 
+Please consider the [Heroku Getting Started Guide for Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) to see how to see logs (`heroku logs --tail`) or how to scale your application horizontally and other interesting stuff. Make sure to play with your [Heroku Dashboard](https://dashboard.heroku.com/) as well.
+
 ## Author
 
 MIT © 2015, [André König](mailto:andre.koenig@posteo.de)
