@@ -1,6 +1,6 @@
 # Cloud Deployment with Heroku
 
-This repository contains the code of my live coding session while presenting ["Deployment in die Cloud"](http://slides.com/akoenig/sitegeist-barcamp2015-cloud-deployment/#/) at the sitegeist Barcamp 2015.
+This repository contains the code of my live coding session while presenting ["Deployment in die Cloud"](http://slides.com/akoenig/sitegeist-barcamp2015-cloud-deployment/#/) at the [sitegeist](https://sitegeist.de) Barcamp 2015.
 
 It demonstrates the deployment of a Node.js application to the [Heroku](https://heroku.com) PaaS.
 
